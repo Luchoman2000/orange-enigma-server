@@ -1,0 +1,17 @@
+{
+	id: "a76b3f9a-d9ff-4be4-b61d-8cbb876f500e"
+	type: "player"
+	player_name: "Polaquitaxd"
+	ranks: {
+		a76b3f9a-d9ff-4be4-b61d-8cbb876f500e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Polaquitaxd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#98FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
